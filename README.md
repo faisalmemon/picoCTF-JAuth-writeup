@@ -93,6 +93,7 @@ Header
   "typ": "JWT",
   "alg": "none"
 }
+Payload
 {
   "auth": 1688308967209,
   "agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0",
